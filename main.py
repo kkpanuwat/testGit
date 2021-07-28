@@ -1,1 +1,2 @@
-print("panuwat")
+print("panuwat Yeesunsorn")
+print(1)
